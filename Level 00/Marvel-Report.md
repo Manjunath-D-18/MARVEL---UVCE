@@ -801,8 +801,6 @@ Added the ESP32 board to the Arduino IDE, fed in the required code with my mobil
 
 ![Task in Action](https://github.com/Manjunath-D-18/MARVEL-Level-0-Images/blob/main/esp-toggle-pic-1.jpeg?raw=true)
 
-![Youtube-video](https://www.youtube.com/watch?v=5nwNKPs2gco) 
-
  **🎥**[**Click here to view the video**](https://github.com/Manjunath-D-18/MARVEL-Level-0-Images/blob/main/esp-toggle-vid.mp4)
 
 ## **Task 12: Soldering Prerequisites**
