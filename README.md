@@ -4,7 +4,7 @@ This repository documents my journey through the **MARVEL program** at **UVCE (U
 
 ## What is MARVEL?
 
-**MARVEL (Making Avenues for Research, Vernacular Education, and Learning)** is a student-run technical club at UVCE that nurtures hands-on learning through structured levels of progressively challenging tasks. It covers domains like Electronics, IoT, AI/ML, Aviation, and more.
+**MARVEL (Makerspace for Advanced Research, Vital Education and Learning)** is a student-run technical club at UVCE that nurtures hands-on learning through structured levels of progressively challenging tasks. It covers domains like Electronics, IoT, AI/ML, Aviation, and more.
 
 🔗 [Visit MARVEL Hub](https://hub.uvcemarvel.in/)
 
